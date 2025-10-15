@@ -140,10 +140,14 @@
     {
       "nombre": "Gerardo2",
       "animal": "Dog"
-    }
+    },
     {
       "nombre": "Xuan",
       "animal": "Estepicursor"
+    },
+    {
+      "nombre": "Esteban",
+      "animal": "Dog"
     }
   ]
 }
